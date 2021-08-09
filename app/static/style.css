@@ -1,0 +1,54 @@
+body {background-color: lightgray;}
+h1   {color: blue; text-align: center;}
+p    {color: red;}
+table {
+  margin: 0 auto;
+  border: 1px solid black;
+}
+td {
+  background-color: #E4F5D4;
+  border: 1px solid black;
+}
+th,td {
+  font-weight: bold;
+  border: 1px solid black;
+  padding: 5px;
+  text-align: center;
+}
+td {
+  font-weight: lighter;
+}
+legend {
+  display: block;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: none;
+  text-align: center;
+  color: purple;
+  font-size: 90%;
+}
+.field_set{
+  border-color: gray;
+  border-style: solid;
+  width:450px;
+  align:left;
+  position: relative;
+  font-family: verdana, arial, helvetica, sans-serif;
+  margin: 0 auto;
+  text-align: left;
+}
+.field_set_hidden{
+  border-color: gray;
+  border-style: solid;
+  width:650px;
+  align:left;
+  position: relative;
+  font-family: verdana, arial, helvetica, sans-serif;
+  margin: 0 auto;
+  text-align: left;
+  display:none;
+}
+.form
+{
+    text-align: center;
+}

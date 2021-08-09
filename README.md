@@ -41,11 +41,11 @@ Building web
  => exporting to image                                                                                             0.1s
  => => exporting layers                                                                                            0.1s
  => => writing image sha256:b2aca2c3e41511972d6dfd58a2d6404c4f94793b55c36044a28a9de12f8c162e                       0.0s
- => => naming to docker.io/library/project2_web                                                                    0.0s
+ => => naming to docker.io/library/binancemdqueyapp_web                                                                    0.0s
 
 Use 'docker scan' to run Snyk tests against images to find vulnerabilities and learn how to fix them
 WARNING: Image for service web was built because it did not already exist. To rebuild this image you must use `docker-compose build` or `docker-compose up --build`.
-Creating project2_web_1 ... done
+Creating binancemdqueyapp_web_1 ... done
 
 ```
 
